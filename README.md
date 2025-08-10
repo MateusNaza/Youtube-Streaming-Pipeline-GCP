@@ -22,8 +22,8 @@ pip install -r requirements.txt
 API_KEY=<sua_chave_api>
 ```   
 
-> ℹ️ **Observação:** Para conseguir sua chave API do youtube recomendo que veja esse tutorial 
-> [este vídeo tutorial passo a passo](https://www.youtube.com/watch?v=qNejkMYBxFg) que ensina como gerar sua chave dentro do Google Cloud Console.
+> ℹ️ **Observação:** Para conseguir sua chave API do youtube recomendo que veja [este vídeo tutorial passo a passo](https://www.youtube.com/watch?v=qNejkMYBxFg)
+>  que ensina como gerar sua chave dentro do Google Cloud Console.
 
        
 ### 3. Suba a estrutura Kafka em containeres Docker com o comando a seguir.
